@@ -1,0 +1,108 @@
+
+.header
+{
+	display: flex;
+
+	justify-content: flex-end;
+	align-items: center;
+	height: 40px;	
+}
+
+.header1
+{
+	margin: 40px;
+	color: black;
+
+}
+
+.header2
+{
+	margin: 40px;
+	color: black;
+
+}
+
+.header3
+{
+	width: 30px;
+	margin: 30px;
+}
+
+
+
+.section
+{ display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 130px;
+
+	
+
+}
+
+
+.section1
+{	display: flex;
+	height: 150px;
+	justify-content: flex-end;
+	align-items: center;
+
+}
+
+.boutons
+{
+	display: flex;
+		justify-content: center;
+		margin: 10px
+		
+}
+
+.sectionz{
+    border-radius: 10px 0 10px 10px;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+}
+
+.section2
+{	background-color: rgba(192, 192, 192);
+			margin: 10px
+
+
+}
+
+.section3
+{	background-color: rgba(192, 192, 192);
+			margin: 10px
+
+
+}
+
+.section4
+
+#footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer1,
+.footer2 {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    background-color: rgba(192, 192, 192);
+    height: 60px;
+}
+
+.linkfooter
+{	margin: 20px;
+	color: black;
+
+
+}
+.ka
+{
+	margin: : : 200px;
+	color: rgba(192, 192, 192);
+}
